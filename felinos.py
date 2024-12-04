@@ -205,4 +205,8 @@ st.markdown("""
     **Autoría**: Esta aplicación fue desarrollada por Gabriela Becerra y Maikol Fallas.
     
     **Curso:** Programación en SIG (GF0657)
+    
+    **Fuente de los datos:** 
+    - Registros de felinos: API de GBIF 
+    - Áreas de Conservación de Costa Rica: SINAC
     """)
