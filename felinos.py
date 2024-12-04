@@ -201,6 +201,6 @@ else:
 # Autoría de la páigna
 st.markdown("""
     ---
-    ### Autoría:
-    Esta aplicación fue desarrollada por Gabriela Becerra y Maikol Fallas.
+    **Autoría**: Esta aplicación fue desarrollada por Gabriela Becerra y Maikol Fallas.
+    **Curso:** Programación en SIG (GF0657)
     """)
