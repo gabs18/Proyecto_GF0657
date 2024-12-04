@@ -5,4 +5,4 @@ plotly.express
 geopandas
 folium
 streamlit-folium
-PIL
+Pillow
