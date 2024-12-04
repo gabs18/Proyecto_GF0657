@@ -195,3 +195,12 @@ if not datos_filtrados.empty:
     st_folium(mapa, width=700, height=500)
 else:
     st.warning("No hay registros para el área seleccionada.")
+
+
+
+# Autoría de la páigna
+st.markdown("""
+    ---
+    ### Autoría:
+    Esta aplicación fue desarrollada por Gabriela Becerra y Maikol Fallas.
+    """)
