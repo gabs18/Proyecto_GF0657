@@ -45,7 +45,7 @@ st.markdown("""
     ### Introducción
     Costa Rica es conocida por su rica biodiversidad, alberga varias especies de felinos que desempeñan un papel esencial en el equilibrio ecológico. Desde el jaguar hasta el ocelote, estos felinos se encuentran en diferentes ecosistemas del país. Sin embargo, enfrentan desafíos significativos debido a la pérdida de hábitat, la caza furtiva y otros factores antropogénicos.
     
-    Este sitio web tiene como objetivo proporcionar una visión de los registros de observaciones de tres especies de felinos en Costa Rica en cada Área de Conservación. Se incluye una barra lateral para filtrar los registros por Área de Conservación, al interactuar con ella, la tabla, el gráfico paste y el mapa se van a actualizar para mostrar sólo la información de dicha área de conservación.
+    Este sitio web tiene como objetivo proporcionar una visión de los registros de observaciones de tres especies de felinos en Costa Rica en cada Área de Conservación. Se incluye una barra lateral para filtrar los registros por Área de Conservación, al interactuar con ella, la tabla, el gráfico pastel y el mapa se van a actualizar para mostrar sólo la información de dicha área de conservación.
     """)
 
 # Ruta a la imagen (ajusta la ruta si está en una subcarpeta)
